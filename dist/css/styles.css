@@ -1,0 +1,26 @@
+.p-0 {
+  padding: 0; }
+
+nav {
+  background: #1f1f1f; }
+
+.img-1 {
+  background: url(../images/f014d5c00ba4c47c282ca00c5428089e-slider1.jpg);
+  width: 100%;
+  height: 40vw;
+  background-size: cover; }
+
+.img-2 {
+  background: url(../images/15a7a873c0e04fcfcae5c6be5365818f-slider2.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 40vw; }
+
+.img-3 {
+  background: url(../images/c358d52f53e5fa1ab61d90306b906529-slider3.jpg);
+  width: 100%;
+  height: 40vw;
+  background-size: cover; }
+
+/*# sourceURL=undefinedC:/Users/otto/Desktop/project first(adaptiv)/src/scss/styles.scss */
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6L1VzZXJzL290dG8vRGVza3RvcC9wcm9qZWN0IGZpcnN0KGFkYXB0aXYpL3NyYy9zY3NzL3N0eWxlcy5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksVUFBVSxFQUFBOztBQUdkO0VBQ0csbUJBQTJCLEVBQUE7O0FBRzlCO0VBQ0kseUNBQW1DO0VBQ25DLFdBQVc7RUFDWCxZQUFZO0VBQ1osc0JBQXNCLEVBQUE7O0FBRTFCO0VBQ0kseUNBQW1DO0VBQ25DLHNCQUFzQjtFQUN0QixXQUFXO0VBQ1gsWUFBWSxFQUFBOztBQUVoQjtFQUNJLHlDQUFtQztFQUNuQyxXQUFXO0VBQ1gsWUFBWTtFQUNaLHNCQUFzQixFQUFBIiwiZmlsZSI6InN0eWxlcy5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLnAtMHtcclxuICAgIHBhZGRpbmc6IDA7XHJcbn1cclxuXHJcbm5hdntcclxuICAgYmFja2dyb3VuZDogcmdiKDMxLCAzMSwgMzEpO1xyXG59XHJcblxyXG4uaW1nLTF7XHJcbiAgICBiYWNrZ3JvdW5kOiB1cmwoLi4vaW1nL3NsaWRlcjEuanBnKTtcclxuICAgIHdpZHRoOiAxMDAlO1xyXG4gICAgaGVpZ2h0OiA0MHZ3O1xyXG4gICAgYmFja2dyb3VuZC1zaXplOiBjb3ZlcjtcclxufVxyXG4uaW1nLTJ7XHJcbiAgICBiYWNrZ3JvdW5kOiB1cmwoLi4vaW1nL3NsaWRlcjIuanBnKTtcclxuICAgIGJhY2tncm91bmQtc2l6ZTogY292ZXI7XHJcbiAgICB3aWR0aDogMTAwJTtcclxuICAgIGhlaWdodDogNDB2dztcclxufVxyXG4uaW1nLTN7XHJcbiAgICBiYWNrZ3JvdW5kOiB1cmwoLi4vaW1nL3NsaWRlcjMuanBnKTtcclxuICAgIHdpZHRoOiAxMDAlO1xyXG4gICAgaGVpZ2h0OiA0MHZ3O1xyXG4gICAgYmFja2dyb3VuZC1zaXplOiBjb3ZlcjtcclxufVxyXG5cclxuXHJcblxyXG4gICAgXHJcblxyXG5cclxuXHJcblxyXG4iXX0= */
